@@ -1,0 +1,32 @@
+
+.logo{
+    padding-right: 0.5rem;
+    width: 3rem;
+    height: 3rem;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.search{
+    width: 25rem;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    border: var(--Primario-al-100) 0.2rem solid;
+    border-radius: 45px;
+}
+.input{
+    width: 22rem;
+    padding-left: 1rem;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 1.5rem;
+    color: var(--Primario-al-100);
+}
+.input::placeholder {
+    color: var(--Claro);
+    font-weight: normal; 
+}

@@ -1,0 +1,22 @@
+
+.container-list{
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;  
+}
+.contenido2{
+    border-radius: 2rem;
+    width: 25rem;
+    border: var(--Primario-al-100) 0.2rem solid;
+    overflow-x: hidden;
+    max-height: 35rem;
+    overflow-y: auto;
+}
+.list{
+    width: 23rem;
+    margin: 1rem;
+    text-decoration: none;
+    list-style: none;
+}

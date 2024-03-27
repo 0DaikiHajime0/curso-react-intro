@@ -1,0 +1,16 @@
+:root{
+    --claro: #D5D8E5;
+}
+h1{
+    margin: 1rem;
+    color: var(--claro);
+    font-size: 4rem;
+}
+h2{
+    color: var(--claro);
+    margin: 1rem;
+    font-size: 2rem;
+    font-weight: normal; 
+    width: 13rem;
+    
+}
